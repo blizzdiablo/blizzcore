@@ -1,1 +1,2 @@
 # blizzcore
+<!DOCTYPE html>
